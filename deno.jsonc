@@ -1,0 +1,14 @@
+{
+	"workspace": ["./workspace/hey", "./workspace/lets"],
+	"fmt": {
+		"useTabs": true,
+		"lineWidth": 90,
+		"indentWidth": 4,
+		"semiColons": true,
+		"singleQuote": true,
+		"proseWrap": "preserve"
+	},
+	"imports": {
+		"@std/assert": "jsr:@std/assert@^1"
+	}
+}
