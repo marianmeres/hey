@@ -19,7 +19,7 @@
  * ```
  */
 export function lets(): string {
-	return 'go';
+	return "go";
 }
 
 if (import.meta.main) {

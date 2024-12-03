@@ -19,7 +19,7 @@
  * ```
  */
 export function hey(): string {
-	return 'ho';
+	return "ho";
 }
 
 if (import.meta.main) {
